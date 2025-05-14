@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adnanbw
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Tech
 
 <!---
 adnanbw/adnanbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
